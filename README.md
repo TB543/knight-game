@@ -56,5 +56,5 @@ All asset copyrights belong to their respective creators.
 1. Make sure you have **Python 3** installed.
 2. Run the main Python file:
    ```bash
-   python main.py
+   python src/main.py
    ```
